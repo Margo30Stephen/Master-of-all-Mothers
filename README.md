@@ -21,4 +21,5 @@ Features of this robot:
 
 5. The 'I am going out' button helps me remember all the stuff that needs to be taken care of when i am going out. Such as taking my keys, card, water etc. So when i m heading out, after pushing the button, it will recite all the important stuff that i need to do when i am heading out.
 
+![MOM bot](https://user-images.githubusercontent.com/67393375/235411139-53191ff5-7bef-4a2b-9388-284d92d2bd4f.jpg)
 
