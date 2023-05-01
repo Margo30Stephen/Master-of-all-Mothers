@@ -15,7 +15,7 @@ Features of this robot:
 
 2. Once you upload the excel file, the 'Schedule' library will set up all the necessary voice commands for the required time as per the tasks. For example, if as per your timetable, at 5:30 am your day starts with doing exercise till 6:00am. The voice command will be set up at 5:30 am every day to wake up and exercise. The voice command will be what you have written in your 'Task' column of the excel sheet.
 
-3. You can give feedback on all your tasks. If you complete the task, press the done button, if not done dont press anything. By default, the feedback is set as 'Not Done'. This feedback is saved in a dataframe. You can keep a watch on your progress by visualizing the data in the form of a bar graph.
+3. You can give feedback on all your tasks. If you complete the task, press the done button, if not done dont press anything. By default, the feedback is set as 'Not Done'. This feedback is saved in a dataframe. You can keep a watch on your progress by visualizing the data in the form of a bar graph. For example, the feedback.xlsx file shows my progress for the past 7 days.
 
 4. The 'I am stressed' button helps with de-stressing. I destress by a song which my mother and grandfather used to sing to me when i was a baby. So, if i press that button, the speaker will play that song.
 
